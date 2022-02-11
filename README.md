@@ -1,6 +1,6 @@
 
 ## Project:
-Smart contract on Cardano blockchain that can help in solving BAD GOVERNANCE plaguing Africa by ensuring free and fair elections.
+A Smart contract on the Cardano blockchain that can help in solving BAD GOVERNANCE plaguing Africa by ensuring free and fair elections.
 
 ## Suggested Solution:
 Devot is a smart contract that runs on Cardano blockchain. 
