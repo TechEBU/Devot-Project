@@ -13,4 +13,4 @@ It authenticates the citizens and every candidate running for a political positi
 #### *Submitted by:*
 - Chinedu Okorie
 - Michael Amatta
-- Osarenmwinda Joshua Ohuimumwen Project
+- Osarenmwinda Joshua Ohuimumwen
