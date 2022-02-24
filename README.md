@@ -9,3 +9,8 @@ It authenticates the citizens and every candidate running for a political positi
 ### *Assumptions:*
 - A tokenized Voters card.
 - Individuals are registered on the platform with their necessary bio-data.
+
+#### *Submitted by:*
+- Chinedu Okorie
+- Michael Amatta
+- Osarenmwinda Joshua Ohuimumwen Project
